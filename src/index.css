@@ -1,0 +1,23 @@
+body {
+    /* background-image: linear-gradient(to right top, #121212, #231e3b, #392866, #562d91, #7c2cbb); */
+    /* background-image: linear-gradient(to right top, #000000, #420f1d, #820327, #c20023, #ff0000); */
+    background-image: linear-gradient(to right top, #000000, #5b2b2b, #af5d34, #eca522, #fffe00);
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Montserrat', sans-serif;
+}
+.con {
+    background-color: rgba(189,189,189,0.1);
+}
+.H {
+    font-weight: 800;
+}
+.G{
+    width: 18pc;
+}
+.K{
+    font-family: 'Chivo Mono', monospace;
+    font-weight: 400;
+    padding: 2pc;
+}
