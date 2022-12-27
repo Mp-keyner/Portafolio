@@ -218,10 +218,8 @@ body {
   }
 }
 @media (max-width: 600px) {
-    body {
-        color: #007bb6;
-    }
     .p {
         grid-template-columns:1fr;
+        margin: 2pc;
     }
   }
