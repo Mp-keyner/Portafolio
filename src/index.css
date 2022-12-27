@@ -79,7 +79,7 @@ body {
     padding: 45px 0 20px;
     font-size: 15px;
     line-height: 24px;
-    color: #737373;
+    color: #ffffff;
 }
 
 .site-footer hr {
@@ -92,7 +92,7 @@ body {
 }
 
 .site-footer h6 {
-    color: #fff;
+    color: #ffc06c;
     font-size: 16px;
     text-transform: uppercase;
     margin-top: 5px;
@@ -100,7 +100,7 @@ body {
 }
 
 .site-footer a {
-    color: #737373;
+    color: #ffffff;
 }
 
 .site-footer a:hover {
@@ -118,7 +118,7 @@ body {
 }
 
 .footer-links a {
-    color: #737373
+    color: #ffffff
 }
 
 .footer-links a:active,
@@ -182,14 +182,14 @@ body {
 .social-icons li.title {
     margin-right: 15px;
     text-transform: uppercase;
-    color: #96a2b2;
+    color: #ffffff;
     font-weight: 700;
     font-size: 13px
 }
 
 .social-icons a {
     background-color: #eceeef;
-    color: #818a91;
+    color: #ffffff;
     font-size: 16px;
     display: inline-block;
     line-height: 44px;
