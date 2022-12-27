@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.c33d3aa6.css",
-    "main.js": "/Portafolio/static/js/main.61957f1a.js",
+    "main.css": "/Portafolio/static/css/main.512959eb.css",
+    "main.js": "/Portafolio/static/js/main.e4aefc3f.js",
+    "static/media/atardecer.jpg": "/Portafolio/static/media/atardecer.b67705996266aab86407.jpg",
+    "static/media/logo-kairos-2.svg": "/Portafolio/static/media/logo-kairos-2.a6f955408689c1d546233a04d183f225.svg",
+    "static/media/luna.jpg": "/Portafolio/static/media/luna.efd6bbdab88d3a54772e.jpg",
     "static/media/ko.jpg": "/Portafolio/static/media/ko.148c5640307f939dc974.jpg",
+    "static/media/Arduino-logo.png": "/Portafolio/static/media/Arduino-logo.f5868f0af5ef60fba8fe.png",
     "index.html": "/Portafolio/index.html",
-    "main.c33d3aa6.css.map": "/Portafolio/static/css/main.c33d3aa6.css.map",
-    "main.61957f1a.js.map": "/Portafolio/static/js/main.61957f1a.js.map"
+    "static/media/instagram.svg": "/Portafolio/static/media/instagram.9a9f6c20ac464ee12231ba5ae7016728.svg",
+    "static/media/githu.svg": "/Portafolio/static/media/githu.5d9cb551de88be7977ad6bf52a4cf7a2.svg",
+    "static/media/linked.svg": "/Portafolio/static/media/linked.84e5e54a2fd2768b0b2e19b2edbaf094.svg",
+    "static/media/facebook.svg": "/Portafolio/static/media/facebook.600b4634610925f23c430aaa903e007a.svg",
+    "main.512959eb.css.map": "/Portafolio/static/css/main.512959eb.css.map",
+    "main.e4aefc3f.js.map": "/Portafolio/static/js/main.e4aefc3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33d3aa6.css",
-    "static/js/main.61957f1a.js"
+    "static/css/main.512959eb.css",
+    "static/js/main.e4aefc3f.js"
   ]
 }
