@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.874e632f.css",
-    "main.js": "/Portafolio/static/js/main.e4aefc3f.js",
+    "main.css": "/Portafolio/static/css/main.a0274fe1.css",
+    "main.js": "/Portafolio/static/js/main.f3d3f9c6.js",
     "static/media/atardecer.jpg": "/Portafolio/static/media/atardecer.b67705996266aab86407.jpg",
     "static/media/logo-kairos-2.svg": "/Portafolio/static/media/logo-kairos-2.a6f955408689c1d546233a04d183f225.svg",
     "static/media/luna.jpg": "/Portafolio/static/media/luna.efd6bbdab88d3a54772e.jpg",
@@ -12,11 +12,11 @@
     "static/media/githu.svg": "/Portafolio/static/media/githu.5d9cb551de88be7977ad6bf52a4cf7a2.svg",
     "static/media/linked.svg": "/Portafolio/static/media/linked.84e5e54a2fd2768b0b2e19b2edbaf094.svg",
     "static/media/facebook.svg": "/Portafolio/static/media/facebook.600b4634610925f23c430aaa903e007a.svg",
-    "main.874e632f.css.map": "/Portafolio/static/css/main.874e632f.css.map",
-    "main.e4aefc3f.js.map": "/Portafolio/static/js/main.e4aefc3f.js.map"
+    "main.a0274fe1.css.map": "/Portafolio/static/css/main.a0274fe1.css.map",
+    "main.f3d3f9c6.js.map": "/Portafolio/static/js/main.f3d3f9c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.874e632f.css",
-    "static/js/main.e4aefc3f.js"
+    "static/css/main.a0274fe1.css",
+    "static/js/main.f3d3f9c6.js"
   ]
 }
